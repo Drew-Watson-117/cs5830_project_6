@@ -1,3 +1,4 @@
 - Map of dams in Nebraska: https://www.nebraskamap.gov/datasets/nebraska::dams/explore?location=40.215936%2C-101.660961%2C10.26
 - Arikaree River Info: https://en.wikipedia.org/wiki/Arikaree_River
 - Frenchman Creek Info: https://en.wikipedia.org/wiki/Frenchman_Creek_(Republican_River_tributary)
+- Information about RRCA and Maps of RRB: https://dnr.nebraska.gov/sites/dnr.nebraska.gov/files/doc/water-planning/republican/Review_RRCA_Model.pdf  
